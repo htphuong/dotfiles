@@ -572,4 +572,7 @@ autocmd BufWritePre * StripWhitespace
 " =================== rainbow ============================
 let g:rainbow_active = 1
 
+set modeline
+set modelines=5
+
 " vim:ts=2:sw=2:et

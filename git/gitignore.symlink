@@ -14,3 +14,7 @@
 .vscode/
 dump.rdb
 main.tfvars
+/vendor
+
+
+
